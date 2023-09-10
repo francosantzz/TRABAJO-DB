@@ -16,6 +16,7 @@ Cada pedido puede estar asociado a una factura (opcional).
 Los pedidos pueden contener múltiples detalles, cada uno vinculado a un producto.
 Los rubros agrupan varios productos.
 Los clientes pueden realizar múltiples pedidos, cada uno con su propio domicilio de entrega.
-Este proyecto ofrece una base sólida para construir una aplicación de gestión de pedidos en Spring y se puede personalizar según las necesidades específicas del negocio. ¡Esperamos que esta descripción general te sea útil para comprender la estructura general del proyecto!
+Este proyecto ofrece una base sólida para construir una aplicación de gestión de pedidos en Spring y se puede personalizar según las necesidades específicas del negocio.
 EJEMPLO EN H2:
+
 ![image](https://github.com/francosantzz/TRABAJO-DB/assets/129998263/7457a52d-bcac-4efb-a192-c3d0324a4ce2)
